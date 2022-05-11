@@ -1,6 +1,6 @@
 ## Welcome to Maker Industries
 
-We are a student-led 🤖 robotics team 🦾 from the heart of 🏫 La Salle Catholic College Preperatory's makerspace since 2018. We are passionate about solving issues in our community. We wish to inspire the next generation of 💡 thinkers and 🛠 creators by having a fun in a safe learning environment for our thoughts and ideas to flourish.
+We are a student-led 🤖 robotics team 🦾 from the heart of 🏫 La Salle Catholic College Preperatory's makerspace founded in 2018. We are passionate about solving issues in our community. We wish to inspire the next generation of 💡 thinkers and 🛠 creators by having a fun in a safe learning environment for our thoughts and ideas to flourish.
 
 Our team won the design award for our robot, Toothless, in the 2021-2022 season
 
